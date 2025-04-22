@@ -36,6 +36,13 @@ li {
 h1 {
     font-size: 36px;
     margin-bottom: 15px;
+    color: black;
+    font-weight: bold;
+    text-shadow:
+    -1px -1px 0 white,
+     1px -1px 0 white,
+    -1px  1px 0 white,
+     1px  1px 0 white; 
 }
 
 button {
